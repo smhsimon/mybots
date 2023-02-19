@@ -1,6 +1,6 @@
 import numpy
 
-iterations = 500
+iterations = 100
 
 amplitude = numpy.pi / 4
 frequency = 1
